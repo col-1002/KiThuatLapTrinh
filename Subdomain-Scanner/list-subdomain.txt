@@ -8,7 +8,7 @@ webdisk
 pop
 cpanel
 whm
-ns1
+kma2
 ns2
 autodiscover
 autoconfig
@@ -17,7 +17,7 @@ test
 m
 blog
 dev
-www2
+marketing
 ns3
 pop3
 forum
@@ -56,5 +56,5 @@ www.blog
 backup
 dns
 sql
-marketing
+kma
 nahamstore-2020-dev
