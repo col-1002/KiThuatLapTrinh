@@ -1,9 +1,4 @@
-login
 api
-login1
-login2
-login3
-login4
 www
 mail
 ftp
@@ -27,7 +22,7 @@ marketing
 ns3
 pop3
 forum
-admin
+customers
 mail2
 vpn
 mx
@@ -54,7 +49,6 @@ stock
 news
 portal
 server
-wiki
 api1
 media
 images
